@@ -11,7 +11,8 @@
 我们调研了 [**MSRA**](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/)、[**Seed**](https://seed.bytedance.com/zh/)、[**SH AI Lab**](https://www.shlab.org.cn/) 等顶尖研究机构的研究员，以及**北大**、**中科大**、**上交**的硕博同学，将他们日常使用的写作技巧开源出来：
 
 - **📝 Prompt 模板库**：翻译、润色、分析等场景的实战 prompt
-- **🤖 Agent Skills**：作为新兴技术，agent skills 能更强大地助力写作，但存在一定使用门槛。我们提供接地气的使用教程，并抽取了写作相关的核心 skills，让你快速上手
+- **🤖 Agent Skills**：作为新兴技术，agent skills 能更强大地助力写作，但存在一定使用门槛。我们提供接地气的使用教程，并抽取了写作相关的核心 skills，让你快速上手。
+- **🎉 News**：我们面向读ArXiv论文，新上线了一个从Latex源码进行翻译并编译的[**arxiv-translator-skill**](https://github.com/Leey21/arxiv-translator)，希望大家多多支持。
 
 ## ✨ 特点
 - 🔬 **实战打磨**：来自一线科研人员的真实使用场景
